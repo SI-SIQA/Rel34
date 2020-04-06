@@ -13,10 +13,10 @@
       },
       "contextAttributes" : [ {
         "name" : "parentId",
-        "value" : "3be8a4cc-c980-40f7-83cd-293cee912722"
+        "value" : "10WM1yzcrfMjzcST4uLiOI"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "4"
       } ],
       "additionalInfo" : {
         "description" : "TailFileToKafka_GIT",
