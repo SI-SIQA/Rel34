@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "67ePrZTwEkydy5674gQ9cc",
+    "id" : "6oPTxUj6WUtdZuB2pEgtc3",
     "name" : "SIdeploykafkaGIT",
     "type" : "SIDataflow",
     "metadata" : {
@@ -9,11 +9,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "706d5e3d-ff73-4109-847c-b2b8b816c4a4"
+        "repoHandle" : "1b1e610a-1b63-4b20-bbad-beacadc9d85a"
       },
       "contextAttributes" : [ {
         "name" : "parentId",
-        "value" : "7458bbcc-9517-482e-89d7-897be5bfdf82"
+        "value" : "b2742bbe-31fd-4636-9174-aa8320eee509"
       }, {
         "name" : "version",
         "value" : "1"
