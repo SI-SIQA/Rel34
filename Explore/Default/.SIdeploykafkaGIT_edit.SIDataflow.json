@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "4cVLupxFtmDe96BunIQTYJ",
-    "name" : "SIdeploykafkaGIT",
+    "name" : "SIdeploykafkaGIT_edit",
     "type" : "SIDataflow",
     "metadata" : {
       "modelVersion" : {
@@ -13,13 +13,13 @@
       },
       "contextAttributes" : [ {
         "name" : "parentId",
-        "value" : "5d3c69e3-8c09-4caf-a91a-f8ff099a14d5"
+        "value" : "23103b29-25a3-491d-a74d-86135dd4c69d"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
-        "description" : "SIdeploykafkaGIT",
+        "description" : "SIdeploykafkaGIT_edit",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
