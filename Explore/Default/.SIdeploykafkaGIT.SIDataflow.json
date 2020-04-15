@@ -13,10 +13,10 @@
       },
       "contextAttributes" : [ {
         "name" : "parentId",
-        "value" : "3ad3786c-b0eb-4f3a-aeb6-f4e9bb003a2d"
+        "value" : "7d587091-97f3-4c64-89fc-ac2a37154e1d"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
         "description" : "SIdeploykafkaGIT",
